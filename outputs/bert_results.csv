@@ -1,0 +1,2 @@
+model,macro_f1,roc_auc
+BERT,0.847,0.9333
